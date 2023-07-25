@@ -1,8 +1,11 @@
 # Rock-Paper-Scissors-Lizard-Spock
 Java console Rock-Paper-Scissors-Lizard-Spock game in multi-levels.
 
-1st level = console game against single computer player
-2nd level = console game against three(3) computer players
+1st level = console game against single computer player.
+
+
+
+2nd level = console game against three(3) computer players.
 
 Game rules are:
 Rock crushes Scissors.
